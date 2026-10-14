@@ -1,4 +1,4 @@
-Hi, I'm Bartek 👋
+   Hi, I'm Bartek 👋
 
 Producer | Delivery Manager | AI & Workflow Automation Enthusiast
 
